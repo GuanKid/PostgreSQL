@@ -1,0 +1,8 @@
+ student_id | course_id |      course       | grade 
+------------+-----------+-------------------+-------
+          1 |         2 | English 11B       | D
+          1 |         3 | World History 11B | C
+          1 |         4 | Trig 2            | B
+          1 |         1 | Biology 2         | C
+(4 rows)
+
